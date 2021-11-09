@@ -1,0 +1,40 @@
+{
+  "Name": "Dishwasher",
+  "Company": "BOSH",
+  "Warranty": 24,
+  "Color": "white",
+  "NumberOfButtons": 5,
+  "PowerConsumption": 2100
+},
+{
+  "Name": "Washing",
+  "Company": "Beko",
+  "Warranty": 24,
+  "Color": "white",
+  "NumberOfButtons": 8,
+  "PowerConsumption": 800
+},
+{
+  "Name": "TV",
+  "Company": "Samsung",
+  "Warranty": 12,
+  "Color": "Black",
+  "NumberOfButtons": 0,
+  "PowerConsumption": 79
+},
+{
+  "Name": "Notebook",
+  "Company": "Lenovo",
+  "Warranty": 12,
+  "Color": "Grey",
+  "NumberOfButtons": 104,
+  "PowerConsumption": 80
+},
+{
+  "Name": "Smartphone",
+  "Company": "Xiaomi",
+  "Warranty": 12,
+  "Color": "Blue",
+  "NumberOfButtons": 0,
+  "PowerConsumption": 67
+},

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialLearning", "SerialLearning\SerialLearning.csproj", "{72A7D366-1CA9-4F6F-B5B5-0F77F1050040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A7D366-1CA9-4F6F-B5B5-0F77F1050040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A7D366-1CA9-4F6F-B5B5-0F77F1050040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A7D366-1CA9-4F6F-B5B5-0F77F1050040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A7D366-1CA9-4F6F-B5B5-0F77F1050040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD5995D-8380-4F02-8DA8-97EE05109F9D}
+	EndGlobalSection
+EndGlobal

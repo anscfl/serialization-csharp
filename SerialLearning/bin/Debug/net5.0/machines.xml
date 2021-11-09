@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Machine>
+    <Name>Dishwasher</Name>
+    <Company>BOSH</Company>
+    <Warranty>24</Warranty>
+    <Color>white</Color>
+    <NumberOfButtons>5</NumberOfButtons>
+    <PowerConsumption>2100</PowerConsumption>
+  </Machine>
+  <Machine>
+    <Name>Washing</Name>
+    <Company>Beko</Company>
+    <Warranty>24</Warranty>
+    <Color>white</Color>
+    <NumberOfButtons>8</NumberOfButtons>
+    <PowerConsumption>800</PowerConsumption>
+  </Machine>
+  <Machine>
+    <Name>TV</Name>
+    <Company>Samsung</Company>
+    <Warranty>12</Warranty>
+    <Color>Black</Color>
+    <NumberOfButtons>0</NumberOfButtons>
+    <PowerConsumption>79</PowerConsumption>
+  </Machine>
+  <Machine>
+    <Name>Notebook</Name>
+    <Company>Lenovo</Company>
+    <Warranty>12</Warranty>
+    <Color>Grey</Color>
+    <NumberOfButtons>104</NumberOfButtons>
+    <PowerConsumption>80</PowerConsumption>
+  </Machine>
+  <Machine>
+    <Name>Smartphone</Name>
+    <Company>Xiaomi</Company>
+    <Warranty>12</Warranty>
+    <Color>Blue</Color>
+    <NumberOfButtons>0</NumberOfButtons>
+    <PowerConsumption>67</PowerConsumption>
+  </Machine>
+</ArrayOfMachine>

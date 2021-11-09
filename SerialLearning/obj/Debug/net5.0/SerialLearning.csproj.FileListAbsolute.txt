@@ -1,0 +1,17 @@
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.exe
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.deps.json
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.runtimeconfig.json
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.runtimeconfig.dev.json
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.dll
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\ref\SerialLearning.dll
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\SerialLearning.pdb
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.csproj.AssemblyReference.cache
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.AssemblyInfoInputs.cache
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.AssemblyInfo.cs
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.csproj.CoreCompileInputs.cache
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.dll
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\ref\SerialLearning.dll
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.pdb
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\obj\Debug\net5.0\SerialLearning.genruntimeconfig.cache
+C:\Users\anscfl\source\repos\SerialLearning\SerialLearning\bin\Debug\net5.0\Newtonsoft.Json.dll
